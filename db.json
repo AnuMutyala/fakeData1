@@ -12,7 +12,7 @@
     { "id": 3, "body": "some comment for search1", "description": "random description3","postId": 1 },
     { "id": 4, "body": "some comment", "description": "random description1 for 2nd item", "postId": 2 },
     { "id": 5, "body": "some comment 2", "description": "random description2 ","postId": 2 },
-    { "id": 6, "body": "some comment for search2", "description": "random description3","postId": 4 },
+    { "id": 6, "body": "some comment for search2", "description": "random description3","postId": 4 }
   ],
   "profile": {
     "name": "typicode"
